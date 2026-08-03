@@ -321,7 +321,15 @@ Always configure Streamlit with the stable production domain rather than a deplo
 <div align="center">
 
 Built with 🎁 for the Gulf market
+## 👥 Project Team
+Sumaya Alsuhaimi
 
+Rana Aljuaid
+
+Riyad Almalki
+
+Mohammed Alhejaili
+  
 *Machine Learning Graduation Project — 2026*
 
 </div>
